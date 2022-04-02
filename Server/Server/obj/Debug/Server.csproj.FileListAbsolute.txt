@@ -1,0 +1,40 @@
+C:\Users\blaze\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\blaze\source\repos\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\blaze\source\repos\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\blaze\source\repos\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\blaze\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\blaze\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\blaze\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\blaze\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\blaze\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\blaze\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\Ernest\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Ernest\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\Ernest\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\Ernest\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Ernest\source\repos\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Ernest\source\repos\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Ernest\source\repos\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Ernest\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\Ernest\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\bin\Debug\Server.exe
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\bin\Debug\Server.pdb
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\obj\Debug\Server.exe
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą\Server\Server\obj\Debug\Server.pdb
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\bin\Debug\Server.exe
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\bin\Debug\Server.pdb
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\obj\Debug\Server.exe
+C:\Users\Ernest\source\repos\Serwer ze skrzynką odbiorczą i cenzurowaniem słów\Server\Server\obj\Debug\Server.pdb
